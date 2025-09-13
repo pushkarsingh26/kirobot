@@ -1,0 +1,31 @@
+export const lightTheme = {
+  background: '#f7faff',
+  text: '#1a2330',
+  primary: '#2563eb',
+  secondary: '#e0e7ef',
+  accent: '#60a5fa',
+  bubbleUser: '#e0e7ef',
+  bubbleBot: '#2563eb',
+  bubbleBotText: '#fff',
+  sidebar: '#fff',
+  border: '#e5e7eb',
+  input: '#fff',
+  codeBg: '#f3f4f6',
+  codeText: '#1a2330',
+};
+
+export const darkTheme = {
+  background: '#181f2a',
+  text: '#f7faff',
+  primary: '#60a5fa',
+  secondary: '#232b3b',
+  accent: '#2563eb',
+  bubbleUser: '#232b3b',
+  bubbleBot: '#2563eb',
+  bubbleBotText: '#fff',
+  sidebar: '#232b3b',
+  border: '#232b3b',
+  input: '#232b3b',
+  codeBg: '#232b3b',
+  codeText: '#f7faff',
+}; 

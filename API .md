@@ -1,0 +1,3 @@
+Paste these API in .env file which is situated in backend folder......
+
+OPENROUTER_API_KEY=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
